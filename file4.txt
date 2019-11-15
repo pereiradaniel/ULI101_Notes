@@ -1,0 +1,5 @@
+Pens are 2.99
+Pencils are 0.99
+Binders are $4
+erasers are 1.25
+Furthest 8
