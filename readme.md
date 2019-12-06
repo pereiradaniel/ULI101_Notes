@@ -1,7 +1,7 @@
-Examples of using grep
+ULI 101 Notes
 ---
 
-Some text files with bash scripts that demonstrate usage of grep.
+Unix notes for ULI 101.
 
 ---
 -Daniele Pereira 2019
